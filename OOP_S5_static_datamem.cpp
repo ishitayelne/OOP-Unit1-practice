@@ -1,5 +1,4 @@
-//Static data member & member function
-//
+//Static data member
 #include <iostream>
 using namespace std;
 class material
