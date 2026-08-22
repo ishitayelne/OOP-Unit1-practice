@@ -1,6 +1,7 @@
 //Static data member
 #include <iostream>
 using namespace std;
+
 class material
 {
   int id;
