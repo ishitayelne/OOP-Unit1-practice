@@ -1,4 +1,4 @@
-//Explain public , private, protected keywords using program
+//Explain public , private, protected keywords using program.
 #include <iostream>
 using namespace std;
 
